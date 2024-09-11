@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Hero";
+}
+
+.navbar{
+    background-color: #1f2937;
+    display: flex;
+    padding: 18px;
+}
+
+.logo{
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: 900;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+}
+
+.right-side{
+    width: 900px;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-end;
+    gap: 24px;
+}
+
+a{
+    font-size: 18px;
+    color: #e5e7eb;
+    text-decoration: none;
+}
