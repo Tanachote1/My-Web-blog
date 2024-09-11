@@ -36,3 +36,42 @@ a{
     color: #e5e7eb;
     text-decoration: none;
 }
+
+.top-container{
+    background-color: #1f2937;
+    height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+
+h1,
+p{
+    color: #f9faf8;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: 500px;
+    text-align: flex-start;
+    height: 250px;
+    justify-content: center;
+}
+
+button{
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #3882f6;
+    border: none;
+    color: white;
+    font-weight: 800;
+    width: 100px;
+}
+
+img{
+    height: 250px;
+    border-radius: 10px
+}
