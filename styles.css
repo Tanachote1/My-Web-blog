@@ -141,4 +141,40 @@ img{
     justify-content: flex-end;
 }
 
+.to-action-container{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.background{
+    background-color: #3882f6;
+    width: 550px;
+    height: 100px;
+    padding: 18px;
+    border-radius: 10px 0px 0px 10px;
+}
+
+h3{
+    color: #e5e7eb;
+    font-weight: bolder;
+    height: 30px;
+    width: 100px;
+}
+
+#hire{
+    border: 2px solid white;
+}
+
+.right-blue{
+    background-color: #3882f6;
+    height: 100px;
+    width: 150px;
+    border-radius: 0px 10px 10px 0px;
+    display: flex;
+    align-items: center;
+}
+
+
 
