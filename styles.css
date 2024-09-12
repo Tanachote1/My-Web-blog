@@ -176,5 +176,15 @@ h3{
     align-items: center;
 }
 
+.footer{
+    height: 50px;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 
 
